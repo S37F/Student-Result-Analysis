@@ -1,0 +1,163 @@
+{
+  "s37f": [
+    {
+      "academic_year": "2023-24",
+      "semester": "Semester 3",
+      "data": [
+        {
+          "Subject": "Name of the Student BADGUJAR FAHIM SAGIR MEHRUNISSA Academic Year Acad",
+          "CA_Marks": 2024,
+          "ESE_Marks": 20,
+          "Lab_Marks": 2,
+          "Total": 5,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Student Number",
+          "CA_Marks": 60003230113,
+          "ESE_Marks": 0,
+          "Lab_Marks": 5,
+          "Total": 2,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Month",
+          "CA_Marks": 2,
+          "ESE_Marks": 0,
+          "Lab_Marks": 2,
+          "Total": 4,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Data Structures",
+          "CA_Marks": 100,
+          "ESE_Marks": 3,
+          "Lab_Marks": 40,
+          "Total": 32,
+          "SGPA": 60.0
+        },
+        {
+          "Subject": "Data Structures Laboratory",
+          "CA_Marks": 48,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 23,
+          "SGPA": 25.0
+        },
+        {
+          "Subject": "Database Management System",
+          "CA_Marks": 96,
+          "ESE_Marks": 3,
+          "Lab_Marks": 40,
+          "Total": 33,
+          "SGPA": 60.0
+        },
+        {
+          "Subject": "Database Management System Laboratory",
+          "CA_Marks": 50,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 22,
+          "SGPA": 25.0
+        },
+        {
+          "Subject": "Web Programming Laboratory",
+          "CA_Marks": 48,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 22,
+          "SGPA": 25.0
+        },
+        {
+          "Subject": "Operating System",
+          "CA_Marks": 96,
+          "ESE_Marks": 2,
+          "Lab_Marks": 40,
+          "Total": 32,
+          "SGPA": 60.0
+        },
+        {
+          "Subject": "Innovative Product Development I",
+          "CA_Marks": 25,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 22,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Design Thinking Laboratory",
+          "CA_Marks": 24,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 24,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Universal Human Values",
+          "CA_Marks": 87,
+          "ESE_Marks": 2,
+          "Lab_Marks": 40,
+          "Total": 22,
+          "SGPA": 60.0
+        },
+        {
+          "Subject": "Universal Human Values Tutorial",
+          "CA_Marks": 25,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 23,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Community Engagement Service",
+          "CA_Marks": 25,
+          "ESE_Marks": 1,
+          "Lab_Marks": 25,
+          "Total": 22,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Management Information System",
+          "CA_Marks": 97,
+          "ESE_Marks": 3,
+          "Lab_Marks": 40,
+          "Total": 36,
+          "SGPA": 60.0
+        },
+        {
+          "Subject": "Remark",
+          "CA_Marks": 20,
+          "ESE_Marks": 8,
+          "Lab_Marks": 8,
+          "Total": 0,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "",
+          "CA_Marks": 0,
+          "ESE_Marks": 2,
+          "Lab_Marks": 2,
+          "Total": 9,
+          "SGPA": 8.8
+        },
+        {
+          "Subject": "Grade Point",
+          "CA_Marks": 10,
+          "ESE_Marks": 9,
+          "Lab_Marks": 8,
+          "Total": 7,
+          "SGPA": 6.0
+        },
+        {
+          "Subject": "online payment for the same on or before",
+          "CA_Marks": 16,
+          "ESE_Marks": 1,
+          "Lab_Marks": 202,
+          "Total": 5,
+          "SGPA": 8.8
+        }
+      ],
+      "uploaded_at": "2025-07-23T16:41:38.270867"
+    }
+  ]
+}
